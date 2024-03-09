@@ -1,5 +1,13 @@
 
 
+## [1.2.1-beta.0](https://github.com/hangaoke1/release-it-test/compare/1.2.0...1.2.1-beta.0) (2024-03-09)
+
+
+### Features
+
+* 命令更新 ([4cbcfe1](https://github.com/hangaoke1/release-it-test/commit/4cbcfe144b2e199b89672cc43ddc5c2db0a76dd5))
+* 哦算了算了算了 ([9c1cab9](https://github.com/hangaoke1/release-it-test/commit/9c1cab9cfc5e56d4b8994110686bf8c9e3eb199e))
+
 # [1.2.0](https://github.com/hangaoke1/release-it-test/compare/1.1.1-beta.0...1.2.0) (2024-03-09)
 
 
