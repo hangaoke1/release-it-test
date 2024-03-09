@@ -1,5 +1,12 @@
 
 
+# [1.1.0](https://github.com/hangaoke1/release-it-test/compare/1.1.0-beta.1...1.1.0) (2024-03-09)
+
+
+### Features
+
+* 更新文档2 ([e866f65](https://github.com/hangaoke1/release-it-test/commit/e866f65f4d6be254c8945edaf75976fca749e606))
+
 # [1.1.0-beta.1](https://github.com/hangaoke1/release-it-test/compare/1.1.0-beta.0...1.1.0-beta.1) (2024-03-09)
 
 
