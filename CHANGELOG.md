@@ -1,5 +1,12 @@
 
 
+# [1.2.0](https://github.com/hangaoke1/release-it-test/compare/1.1.1-beta.0...1.2.0) (2024-03-09)
+
+
+### Features
+
+* 日式哈哈哈 ([96494fb](https://github.com/hangaoke1/release-it-test/commit/96494fb58601fd3a2f9128072bbc9ab2be50cd08))
+
 ## [1.1.1-beta.0](https://github.com/hangaoke1/release-it-test/compare/1.1.0...1.1.1-beta.0) (2024-03-09)
 
 
