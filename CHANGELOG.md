@@ -1,5 +1,12 @@
 
 
+# [1.1.0-beta.1](https://github.com/hangaoke1/release-it-test/compare/1.1.0-beta.0...1.1.0-beta.1) (2024-03-09)
+
+
+### Features
+
+* 增加README ([8c28a94](https://github.com/hangaoke1/release-it-test/commit/8c28a9401734eb7530447ac305dc2d1ad1d792bb))
+
 # 1.1.0-beta.0 (2024-03-09)
 
 
