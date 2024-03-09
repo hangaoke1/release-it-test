@@ -12,7 +12,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@release-it/conventional-changelog": "^8.0.1",
+    "@release-it/conventional-changelog": "^4.3.0",
     "release-it": "^14.14.3"
   }
 }
