@@ -1,5 +1,13 @@
 
 
+## [1.2.2-beta.0](https://github.com/hangaoke1/release-it-test/compare/1.2.1...1.2.2-beta.0) (2024-03-10)
+
+
+### Features
+
+* 地方 ([fc6d2ef](https://github.com/hangaoke1/release-it-test/commit/fc6d2efb0e755a4580b4fbb58e148b0284c89d82))
+* 更新脚本指令 ([37d3e2f](https://github.com/hangaoke1/release-it-test/commit/37d3e2f46fbf6713f7c90c79033c295e061d1e7e))
+
 ## [1.2.1](https://github.com/hangaoke1/release-it-test/compare/1.2.1-beta.0...1.2.1) (2024-03-09)
 
 
